@@ -1,6 +1,6 @@
 # File Organizer Python Script 📂
 
-Este es un script de automatización desarrollado en **Python** diseñado para organizar directorios caóticos (como la carpeta de Descargas) clasificando los archivos automáticamente en carpetas según su extensión.
+Este es un script de automatización desarrollado en **Python** diseñado para organizar directorios  (como la carpeta de Descargas) clasificando los archivos automáticamente en carpetas según su extensión.
 
 ## Propósito del Script
 El objetivo de este script es comprender el funcionamiento de la libreria OS y practicar la interacción con el sistema Operativo
